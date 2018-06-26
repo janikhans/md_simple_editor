@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class MdBuilder
   include ActionView::Helpers
   include FontAwesome

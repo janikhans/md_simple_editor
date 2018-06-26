@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'md_simple_editor/version'
 require 'redcarpet'
 require 'font-awesome-rails'
